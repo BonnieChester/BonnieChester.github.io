@@ -1,16 +1,13 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a PhD's Degree in Computer Science, at Graduate School of Engnieering, Nagoya University, Japan. Previously he obtained a M.B.A's Degree at GSM, Kyoto University, Japan.
 
 #### Email
-sli[at]cumt.edu.cn
+**heng.ji.nagoyaml[at]gmail.com**  *Change the at to @.
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.B.A, Graduate School of Management, Kyoto University, 2022—2024.\
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Artificial Intelligence, Pattern Mining, Multi-modal fusion.
 
